@@ -16,8 +16,8 @@ Professional AI-powered air quality intelligence platform for Gurugram municipal
 - Git
 
 #### Installation
-git clone https://github.com/0823pratik/aerovision-clear-skies-round2.git
-cd aerovision-ggm-2.0
+git clone https://github.com/0823pratik/aerovision-clear-skies-final.git
+cd aerovision-clear-skies-final
 pip install -r requirements.txt
 
 #### Running the Dashboard
